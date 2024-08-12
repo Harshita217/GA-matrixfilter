@@ -1,4 +1,3 @@
-tests/test_main.py
 import unittest
 from src.main import add
 class TestMain(unittest.TestCase):
